@@ -1,1 +1,1 @@
-# Math-In-AI
+# AI Projects
